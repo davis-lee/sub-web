@@ -10,7 +10,7 @@ export function useSubscriptionForm() {
     form: {
       sourceSubUrl: "",
       clientType: "",
-      customBackend: "",
+      customBackend: "https://subconverter.wegotoworld.com/sub?",
       remoteConfig: "",
       excludeRemarks: "",
       includeRemarks: "",
